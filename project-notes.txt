@@ -1,0 +1,2 @@
+This is our shared project file.
+Everyone can edit this.
